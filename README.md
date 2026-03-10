@@ -1,16 +1,30 @@
-# ezeewash_admin
+B.Sc. in CSE Final Year Project 2025-2026
+# EzzeWash - Smart Laundry Service Platform
 
-A new Flutter project.
+EzzeWash is a modern laundry service management system built using **Flutter**.  
+The platform connects **customers and administrators** through a single integrated system that simplifies laundry service operations.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Online laundry order placement
+- Order scheduling and management
+- Real-time order status tracking
+- Admin dashboard for managing orders and services
+- Push notifications for order updates
+- Secure payment processing
+- User-friendly interface
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** – Cross-platform application development
+- **Dart** – Programming language
+- **SupaBase / Backend Services** – Authentication, database, and notifications
+- **Git & GitHub** – Version control
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 System Modules
+
+### Admin Side
+- Manage orders
+- Update order status
+- Manage services and pricing
+- View reports and analytics
